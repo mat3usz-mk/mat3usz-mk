@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mat3usz-mk
 - 👀 I’m interested in coding, AI, web3, NFT;
-- 🌱 I’m currently learning Solidity, python;
+- 🌱 I’m currently learning Python, MatLab, ML;
 - 📫 How to reach me: Discord:! mat3usz#4715
 
 <!---
